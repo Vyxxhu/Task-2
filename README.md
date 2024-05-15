@@ -11,4 +11,7 @@ user correctly guesses the number
 and then display the number of
 attempts it took to win the game.
 
+OUTPUT:
+
+
 ![Screenshot 2024-05-15 232137](https://github.com/Vyxxhu/Task-2/assets/149455773/50017e9b-d78a-41b9-9459-c89d4d3a3a30)
