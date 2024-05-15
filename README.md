@@ -10,4 +10,5 @@ too low. It should continue until the
 user correctly guesses the number
 and then display the number of
 attempts it took to win the game.
-https://media.istockphoto.com/id/1068364620/photo/light-bulb-with-rays-shine-from-colorful-geometric-shapes-on-green-wooden-background-with.jpg?s=612x612&w=0&k=20&c=bgVuUyhU0fjR9_8H7jcrCVZ4toOh3s2jpn45t3oMGYo=
+
+![Screenshot 2024-05-15 232137](https://github.com/Vyxxhu/Task-2/assets/149455773/50017e9b-d78a-41b9-9459-c89d4d3a3a30)
